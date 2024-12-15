@@ -138,7 +138,7 @@ export const DATA = {
         {
           type: "Source",
           href: "https://github.com/Sahil-1832/CUHP-APP-v1.0",
-          icon: <Icons.globe className="size-3" />,
+          icon: <Icons.github className="size-3" />,
         },
       ],
       image: "/cuhp.svg",
