@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Sahil",
   initials: "S",
-  url: "https://dillion.io",
+  url: "https://sahil-portfolio-beta.vercel.app/",
   location: "Kangra, Himachal Pradesh",
   locationLink: "https://www.google.com/maps/place/kangra",
   description:
@@ -88,7 +88,7 @@ export const DATA = {
   projects: [
     {
       title: "Share Next App",
-      href: "https://share-next-app-v1.vercel.app/",
+      href: "https://share-next-app.vercel.app/",
       dates: "Sep 2024 - Nov 2024",
       active: true,
       description:
@@ -105,7 +105,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://share-next-app-v1.vercel.app/",
+          href: "https://share-next-app.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
         {
