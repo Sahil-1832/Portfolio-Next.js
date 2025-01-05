@@ -62,7 +62,7 @@ export const DATA = {
       title: "Jr. Data Engineer Trainee",
       logoUrl: "/64squares-logo.jpg",
       start: "May 2024",
-      end: "Present",
+      end: "Jan 2025",
       description:
         "Worked on generative AI models and fine-tuning large language models (LLMs). Conducted AI model training and data preparation to ensure high-quality model output. Complete over 800+ data annotation tasks using Label Studio,focusing on data labeling, image processing, and bug detection.",
     },
@@ -148,6 +148,16 @@ export const DATA = {
   ],
   hackathons: [
     {
+      title: "December Badge 2024",
+      dates: "31 December 2024",
+      location:"",
+      description:
+        "The December 2024 month badge from LeetCode for solving all POTD in Novermber month.",
+      image:
+        "/Dec2024.png",
+      links: [],
+    },
+    {
       title: "Annual Badge 2024",
       dates: "09 December 2024",
       location:"",
@@ -162,7 +172,7 @@ export const DATA = {
       dates: "30 November 2024",
       location:"",
       description:
-        "The November month badge from LeetCode for solving all  POTD in Novermber month.",
+        "The November 2024 month badge from LeetCode for solving all POTD in Novermber month.",
       image:
         "/Nov2024.png",
       links: [],
@@ -172,7 +182,7 @@ export const DATA = {
       dates: "31 October 2024",
       location:"",
       description:
-        "The October month badge from LeetCode for solving all POTD in October month.",
+        "The October 2024 month badge from LeetCode for solving all POTD in October month.",
       image:
         "/Oct2024.png",
       links: [],
@@ -192,7 +202,7 @@ export const DATA = {
       dates: "30 September 2024",
       location:"",
       description:
-        "The September month badge from LeetCode for solving all POTD in September month.",
+        "The September 2024 month badge from LeetCode for solving all POTD in September month.",
       image:
         "/Sep2024.png",
       links: [],
@@ -202,7 +212,7 @@ export const DATA = {
       dates: "31 August 2024",
       location:"",
       description:
-        "The August month badge from LeetCode for solving all POTD in August month.",
+        "The August 2024 month badge from LeetCode for solving all POTD in August month.",
       image:
         "/Aug2024.png",
       links: [],
@@ -222,7 +232,7 @@ export const DATA = {
       dates: "31 July 2024",
       location:"",
       description:
-        "The July month badge from LeetCode for solving all POTD in July month.",
+        "The July 2024 month badge from LeetCode for solving all POTD in July month.",
       image:
         "/July2024.png",
       links: [],
@@ -232,7 +242,7 @@ export const DATA = {
       dates: "30 June 2024",
       location:"",
       description:
-        "The June month badge from LeetCode for solving all POTD in June month.",
+        "The June 2024 month badge from LeetCode for solving all POTD in June month.",
       image:
         "/Jun2024.png",
       links: [],
@@ -242,7 +252,7 @@ export const DATA = {
       dates: "31 May 2024",
       location:"",
       description:
-        "The May month badge from LeetCode for solving all POTD in May month.",
+        "The May 2024 month badge from LeetCode for solving all POTD in May month.",
       image:
         "/May2024.png",
       links: [],

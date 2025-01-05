@@ -164,8 +164,10 @@ export default function Page() {
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   During my time in university, I love to solve the coding problems on
-                  different platforms like LeetCode, GFG (GeeksForGeeks), and CodeChef. I have solved 350+ problems
-                  on LeetCode and 850+ problems  on GFG. After solving 100 POTD (Problem of the Day) i rewarded with GFG goodies.
+                  different platforms like LeetCode, GFG (GeeksForGeeks), and CodeChef. I have solved 400+ problems
+                  on <a style={{color:'white', textDecoration: 'underline'}} target="_blank" href="https://leetcode.com/u/sahil1832/">LeetCode</a> and 900+ problems 
+                  on <a style={{color:'white', textDecoration: 'underline'}} target="_blank" href="https://www.geeksforgeeks.org/user/sahilshrma/">GFG</a>. After solving 100 
+                  POTD (Problem of the Day) i rewarded with GFG goodies.
                 </p>
               </div>
             </div>
