@@ -10,10 +10,10 @@ export const DATA = {
   description:
     "Full-Stack Developer with a Proven Track Record in Problem-Solving and Cutting-Edge Technologies. Very active on LeetCode.",
   summary:
-    "As a Jr. Data Engineer Trainee at [64 Squares LLC](/#work), I work on developing generative AI models, fine-tuning large language models, and completing data annotation tasks. I have completed my [Master of Computer Applications (MCA)](/#education) from the [Central University of Himachal Pradesh](/#education) with a CGPA of 9.18, building on a strong academic foundation in Data Structure. Passionate about problem-solving, I have solved over 350 problems on [LeetCode](/#hackathons) and ranked 1st at my university on [GeeksforGeeks](/#hackathons). Some of my projects are [SHARE NEXT](/#projects), a secure content-sharing app, and [CUHP APP](/#projects), an Android application for the university. I am focused on advancing my [skills](/#skills) in AI, machine learning, and full-stack development, with the goal of contributing to impactful, scalable solutions in the tech industry.",
+    "As a Trainee Software Engineer at [TechMatrix Consulting](#work), I specialize in Salesforce CRM development and customization, focusing on Apex programming, Lightning Web Components (LWC), and Salesforce Administration. I work on building and optimizing automation workflows using Flow, Process Builder, and Validation Rules to enhance business processes.\n\nPreviously, as a Jr. Data Engineer Trainee at [64 Squares LLC](/#work), I worked on developing generative AI models, fine-tuning large language models (LLMs), and completing data annotation tasks. My expertise extends to data labeling, image processing, and bug detection, with over 800+ annotation tasks completed using Label Studio.\n\nI hold a [Master of Computer Applications (MCA)](/#education) from the [Central University of Himachal Pradesh](/#education) with a CGPA of 9.18, strengthening my foundation in Data Structures and Algorithms. Passionate about problem-solving, I have solved 450+ problems on [LeetCode](/#hackathons) and ranked 1st at my university on [GeeksforGeeks](/#hackathons).\n\nSome of my projects include [SHARE NEXT](/#projects), a secure content-sharing app, and [CUHP APP](/#projects), an Android application for university students. I am dedicated to expanding my [skills](/#skills) in Salesforce, AI, machine learning, and full-stack development, with the goal of contributing to impactful, scalable solutions in the tech industry.",
   avatarUrl: "/me.jpg",
   skills: [
-    "C++", "Java", "C", "Javascript", "Python", "MySQL", "Fire Base", "SQL", "React", "Next", "Bootstrap", "Tailwind", "DSA", "Android Studio", "PHP",
+    "C++","Salesforce", "Java", "C", "Javascript", "Python", "MySQL", "Fire Base", "SQL", "React", "Next", "Bootstrap", "Tailwind", "DSA", "Android Studio", "PHP",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -55,13 +55,25 @@ export const DATA = {
 
   work: [
     {
+      company: "TechMatrix Consulting",
+      href: "https://www.techmatrixconsulting.com/",
+      badges: [],
+      location: "Jaipuur, Rajasthan",
+      title: "Trainee Software Engineer",
+      logoUrl: "/tmc logo.jpg",
+      start: "Jan 2025",
+      end: "Present",
+      description:
+        "Worked on Salesforce CRM development and customization, focusing on Apex programming, Lightning Web Components (LWC), and Salesforce Administration. Built and optimized automation workflows using Flow, Process Builder, and Validation Rules to enhance business processes. Conducted SOQL and SOSL queries for efficient data retrieval and management. Implemented security controls, including Profiles, Roles, and Permission Sets, to ensure data integrity. Completed multiple Trailhead Superbadges, reinforcing expertise in Salesforce solutions.",
+    },
+    {
       company: "64 Square Apex LLP",
       href: "https://www.64-squares.com/",
       badges: [],
       location: "UNA, Himachal Pradesh",
       title: "Jr. Data Engineer Trainee",
       logoUrl: "/64squares-logo.jpg",
-      start: "May 2024",
+      start: "JUL 2024",
       end: "Jan 2025",
       description:
         "Worked on generative AI models and fine-tuning large language models (LLMs). Conducted AI model training and data preparation to ensure high-quality model output. Complete over 800+ data annotation tasks using Label Studio,focusing on data labeling, image processing, and bug detection.",
@@ -148,11 +160,31 @@ export const DATA = {
   ],
   hackathons: [
     {
+      title: "January 2025 Badge",
+      dates: "31 January 2025",
+      location:"",
+      description:
+        "The January 2025 month badge from LeetCode for solving all POTD in January month.",
+      image:
+        "/Jan2025.png",
+      links: [],
+    },
+    {
+      title: "365 Days Badge",
+      dates: "14 January 2025",
+      location:"",
+      description:
+        "365 Days Badge on LeetCode, awarded for consistent problem-solving over a year",
+      image:
+        "/365days.png",
+      links: [],
+    },
+    {
       title: "December Badge 2024",
       dates: "31 December 2024",
       location:"",
       description:
-        "The December 2024 month badge from LeetCode for solving all POTD in Novermber month.",
+        "The December 2024 month badge from LeetCode for solving all POTD in December month.",
       image:
         "/Dec2024.png",
       links: [],
