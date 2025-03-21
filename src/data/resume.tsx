@@ -160,6 +160,16 @@ export const DATA = {
   ],
   hackathons: [
     {
+      title: "February 2025 Badge",
+      dates: "28 February 2025",
+      location:"",
+      description:
+        "The February 2025 month badge from LeetCode for solving all POTD in February month.",
+      image:
+        "/Feb2025.png",
+      links: [],
+    },
+    {
       title: "January 2025 Badge",
       dates: "31 January 2025",
       location:"",
