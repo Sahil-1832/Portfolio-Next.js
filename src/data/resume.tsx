@@ -160,6 +160,16 @@ export const DATA = {
   ],
   hackathons: [
     {
+      title: "100 Days 2025 Badge",
+      dates: "10 April 2025",
+      location:"",
+      description:
+        "The 100 Days 2025 badge from LeetCode for solving problems continuously for 100 days in 2025.",
+      image:
+        "/100days2025.png",
+      links: [],
+    },
+    {
       title: "March 2025 Badge",
       dates: "31 March 2025",
       location:"",
@@ -177,6 +187,16 @@ export const DATA = {
         "The February 2025 month badge from LeetCode for solving all POTD in February month.",
       image:
         "/Feb2025.png",
+      links: [],
+    },
+    {
+      title: "50 Days 2025 Badge",
+      dates: "19 February 2025",
+      location:"",
+      description:
+        "The 50 Days 2025 badge from LeetCode for solving problems continuously for 50 days in 2025..",
+      image:
+        "/50days2025.png",
       links: [],
     },
     {
